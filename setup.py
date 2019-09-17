@@ -1,7 +1,7 @@
 import setuptools
 
 install_requires = [
-    'psycopg2',
+    'psycopg2-binary',
 ]
 
 setuptools.setup(
